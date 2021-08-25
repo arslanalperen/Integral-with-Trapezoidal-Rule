@@ -26,7 +26,12 @@ Firstly, the program wants to function. User gives the function and then, progra
 
 While user obey the limitations, program works correctly.  
 
+**<h1>Result of the Solution</h1>** 
+![1](/images/1.png)
+![2](/images/2.png)
+
 **<h1>Flowchart of the Program</h1>**  
+![Flowchart](/images/flowchart.png)
 
 **<h1>Conclusion and Remarks</h1>**  
 
